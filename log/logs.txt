@@ -1,0 +1,18 @@
+23-07-2020 10:36:11 INFO     [app.py:19] === Singularity ===
+23-07-2020 10:36:11 INFO     [app.py:21] Current environment: dev
+23-07-2020 10:36:11 INFO     [configuration.py:13] Reading config from: D:\SGL-BACKEND\sgl-spark-project/config/dev-conf.json
+23-07-2020 10:36:11 INFO     [app.py:23] === Spark project is running... ===
+23-07-2020 10:36:11 INFO     [app.py:24] == Configurations ==
+23-07-2020 10:36:11 INFO     [app.py:26] app_name: sgl-spark
+23-07-2020 10:36:11 INFO     [app.py:27] input_mongodb_uri: mongodb://172.17.0.5:27017/test.myCollection
+23-07-2020 10:36:11 INFO     [app.py:28] output_mongodb_uri: mongodb://172.17.0.5:27017/test.myCollection
+23-07-2020 10:36:11 INFO     [app.py:29] jars_dir: ./jars/*
+23-07-2020 10:40:59 INFO     [app.py:19] === Singularity ===
+23-07-2020 10:40:59 INFO     [app.py:21] Current environment: prod
+23-07-2020 10:40:59 INFO     [configuration.py:13] Reading config from: D:\SGL-BACKEND\sgl-spark-project/config/prod-conf.json
+23-07-2020 10:40:59 INFO     [app.py:23] === Spark project is running... ===
+23-07-2020 10:40:59 INFO     [app.py:24] == Configurations ==
+23-07-2020 10:40:59 INFO     [app.py:26] app_name: sgl-spark
+23-07-2020 10:40:59 INFO     [app.py:27] input_mongodb_uri: mongodb://172.17.0.5:27017/test.myCollection
+23-07-2020 10:40:59 INFO     [app.py:28] output_mongodb_uri: mongodb://172.17.0.5:27017/test.myCollection
+23-07-2020 10:40:59 INFO     [app.py:29] jars_dir: ./jars/*
